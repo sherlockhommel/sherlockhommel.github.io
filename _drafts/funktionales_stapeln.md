@@ -1,5 +1,7 @@
 # Funktionales Stapeln
 
+* TODO: Drei Diagramme malen: eins mit ein element pro funktion, eins mit mehreren unifunktionale elemente pro funktion, eins mit richtigem funktionalem Stapeln
+
 In der Permakultur gibt es zwei Prinzipien für resiliente Systeme:
 
 1. Jede Funktion des Systems wird durch mehrere Elemente erfüllt
@@ -7,13 +9,27 @@ In der Permakultur gibt es zwei Prinzipien für resiliente Systeme:
 
 Die erste Regel stellt sicher, dass wichtige Funktionen nicht auf einmal ausfallen, wenn einzelne Elemente verloren gehen.
 Die zweite Regel stellt sicher, dass man aufgrund der ersten Regel nicht extrem viele Elemente braucht, um alle Funktionen sicher abzudecken.
-Dieses Prinzip hat mich von Anfang an fasziniert, aber ich bin immer noch nicht so richtig dazu gekommen, sie in meinen Alltag zu integrieren.
-In unseren modernen Leben praktizieren wir eher das Gegenteil:
-Wir haben einen Job, der unser finanzielles Einkommen sichert.
-Wir machen eine Sportart, um uns Fit zu halten.
-Wir kaufen unsere Lebensmittel immer im Supermarkt, und zwar oft im selben Supermarkt.
-Jede Aktivität erfüllt genau einen Zweck.
+Manchmal werden diese beiden Prinzipien zusammengefasst "funktionales Stapeln" genannt.
+(Dieses Prinzip hat mich von Anfang an fasziniert, aber ich bin immer noch nicht so richtig dazu gekommen, sie in meinen Alltag zu integrieren.)
+In unseren modernen Leben praktizieren wir eher das Gegenteil: 
+Wir trennen Funktionen so viel wie möglich, so dass jeder Teil unseres Lebens seine eigene Funktion erfüllt.
+Unser Einkommen kommt aus einem Job, diesen Job machen viele wiederum nur für das Einkommen.
+Wir halten uns durch isolierte Übungen im Fitnessstudio fit, haben aber keinen Spaß daran.
+Unsere Lebensmittel kommen oft aus ein und demselben Supermarkt.
+Weder nutzen wir verschiedene Einkaufsmöglichkeiten, noch produzieren wir unser eigenes Essen. 
 Dasselbe gilt auch für unsere Einrichtung, unsere Werkzeuge und so weiter.
+Jede Aktivität, jedes Werkzeug, jedes Möbelstück erfüllt genau einen Zweck.
+Wir denken wir sichern unsere Bedürfnisse eher, indem wir für jedes die spezialisierte Lösung nutzen.
+Aber das macht uns abhängig von den gewählten Lösungen.
+In Zeiten vieler Änderungen (zum Beispiel nach der Geburt eines Kindes, Umzug, etc) fallen unsere bisherigen Lösungen weg und wir stehen vor dem nichts.
+
+Stattdessen können wir dasselbe Bedürfnis durch viele kleine mehrfach nützliche Dinge abdecken.
+Hier ein paar Beispiele:
+
+
+
+Gedanke: Stock füllt sich zwar schneller durch spezialisierte Inputs, aber viele kleine inputs machen das Fass auch voll.
+
 
 Wie können wir das o.g. Prinzip nutzen, um unser Leben resilienter, aber weniger kompliziert zu gestalten?
 
