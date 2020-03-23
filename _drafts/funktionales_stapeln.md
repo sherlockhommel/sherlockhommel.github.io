@@ -2,33 +2,49 @@
 
 * TODO: Drei Diagramme malen: eins mit ein element pro funktion, eins mit mehreren unifunktionale elemente pro funktion, eins mit richtigem funktionalem Stapeln
 
-In der Permakultur gibt es zwei Prinzipien für resiliente Systeme:
+In der Permakultur gibt es zwei ineinandergreifende Prinzipien für resiliente Systeme:
 
-1. Jede Funktion des Systems wird durch mehrere Elemente erfüllt
-2. Jedes Element erfüllt mehrere Funktionen
+1. Jede Funktion wird durch mehrere Elemente gestützt
+2. Jedes Element stützt mehrere Funktionen
 
-Die erste Regel stellt sicher, dass wichtige Funktionen nicht auf einmal ausfallen, wenn einzelne Elemente verloren gehen.
+Die erste Regel stellt sicher, dass wichtige Funktionen nicht ausfallen, sobald einzelne Elemente verloren gehen.
 Die zweite Regel stellt sicher, dass man aufgrund der ersten Regel nicht extrem viele Elemente braucht, um alle Funktionen sicher abzudecken.
 Manchmal werden diese beiden Prinzipien zusammengefasst "funktionales Stapeln" genannt.
-(Dieses Prinzip hat mich von Anfang an fasziniert, aber ich bin immer noch nicht so richtig dazu gekommen, sie in meinen Alltag zu integrieren.)
-In unseren modernen Leben praktizieren wir eher das Gegenteil: 
+
+In unseren modernen Leben praktizieren wir allerdings eher das Gegenteil: 
 Wir trennen Funktionen so viel wie möglich, so dass jeder Teil unseres Lebens seine eigene Funktion erfüllt.
-Unser Einkommen kommt aus einem Job, diesen Job machen viele wiederum nur für das Einkommen.
+Unser Einkommen kommt aus einem Job und diesen Job machen wir oft nur für das Einkommen.
 Wir halten uns durch isolierte Übungen im Fitnessstudio fit, haben aber keinen Spaß daran.
 Unsere Lebensmittel kommen oft aus ein und demselben Supermarkt.
 Weder nutzen wir verschiedene Einkaufsmöglichkeiten, noch produzieren wir unser eigenes Essen. 
 Dasselbe gilt auch für unsere Einrichtung, unsere Werkzeuge und so weiter.
 Jede Aktivität, jedes Werkzeug, jedes Möbelstück erfüllt genau einen Zweck.
-Wir denken wir sichern unsere Bedürfnisse eher, indem wir für jedes die spezialisierte Lösung nutzen.
+Wir denken wir sichern unsere Bedürfnisse am besten, indem wir für jedes die spezialisierte Lösung nutzen.
 Aber das macht uns abhängig von den gewählten Lösungen.
-In Zeiten vieler Änderungen (zum Beispiel nach der Geburt eines Kindes, Umzug, etc) fallen unsere bisherigen Lösungen weg und wir stehen vor dem nichts.
+Fallen unsere bisherigen Lösungen weg, zum Beispiel in Zeiten vieler Änderungen (zum Beispiel nach der Geburt eines Kindes, Umzug, Pandemie, etc) stehen wir möglicherweise vor dem nichts.
 
-Stattdessen können wir dasselbe Bedürfnis durch viele kleine mehrfach nützliche Dinge abdecken.
+Stattdessen können wir dasselbe Bedürfnis durch viele kleine mehrfach nützliche Dinge abdecken (Prinzip 1 von oben).
 Hier ein paar Beispiele:
+Um uns finanziell abzusichern, können nicht nur zusätzlichem zu unserem Job kleine Nebenprojekte starten, sondern auch noch sparsamer leben, investieren lernen etc.
+Um uns fit zu halten können wir verschiedentste Bewegungsdisziplinen ausprobieren und zusätzlich unseren Alltag mit Bewegung spicken.
+Für unsere Ernährung können wir in verschiedenen Supermärkten, Wochenmärkten, Lebensmittelläden und direkt beim Bauern einkaufen und außerdem selbst und mit Freunden essen anbauen.
+
+Um ein wenig einzugrenzen, welche Kandidaten besonders gut geeignet sind, können wir zusätzlich Prinzip 2 einbringen und schauen, welche Ansätze zusätzlich zum eigentlichen Zweck auch noch andere Bedürfnisse erfüllen.
+Wenn wir zu Fuß oder mit dem Fahrrad einkaufen gehen, dann haben wir nachher nicht nur unsere Einkäufe, sondern bekommen auch ein Workout und frische Luft.
+Auf dem Markt oder im Bioladen einzukaufen erhöht die Chance, gesunde, ökologische, regionale und unverpackte Lebensmittel zu bekommen.
+Wenn wir versuchen, uns im Alltag mehr zu bewegen, können wir "nebenbei" Hausarbeiten erledigen.
+Das Nebenprojekt für Zusatzeinkommen darf Spaß machen ;) und Interessen verfolgen, für die wir privat oder im Beruf keine Zeit haben.
+
+Wenn man diese Sichtweise weiterspinnt, entsteht schnell ein Netz aus Aktivitäten, die sich gegenseitig stützen:
+Um mehr Bewegung im Alltag zu bekommen, fahren wir mit dem Fahhrad
+
+TODO: hier geht es morgen weiter mit einem vernetzen Beispiel.
+
 
 
 
 Gedanke: Stock füllt sich zwar schneller durch spezialisierte Inputs, aber viele kleine inputs machen das Fass auch voll.
+Gedanke: Vereinfachung und Minimalismus kann auf der Ebene der Funktionen, aber auch auf der Ebene der Elemente wirken.
 
 
 Wie können wir das o.g. Prinzip nutzen, um unser Leben resilienter, aber weniger kompliziert zu gestalten?
