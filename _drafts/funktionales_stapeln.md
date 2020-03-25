@@ -40,7 +40,7 @@ Wenn man diese Sichtweise weiterspinnt, entsteht schnell ein Netz aus Aktivität
 TODO: hier ein Bild mit einem schönen Netz.
 
 Ich denke die Idee ist jetzt schon rübergekommen.
-Hier noch ein paar Verallgemeinerungen, um funktionales Stapeln einfacher in beliebigen Situationen anwenden zu können.
+Hier noch ein paar Verallgemeinerungen, um funktionales Stapeln einfacher auf beliebige Situationen anwenden zu können.
 Wie auch schon oben bezeichnet das Wort Funktion implizit Zwecke, Bedürfnisse und Ziele und das Wort Element implizit Mittel, Aktivitäten und Werkzeuge.
 Um geignete Elemente auszuwählen, muss zuerst die Funktion vom Element getrennt werden.
 Oft haben wir standardlösungen für bestimmte Probleme im Kopf:
@@ -56,11 +56,24 @@ Geld -> Job
 Das hilft dabei, sich im Kopf auch für die rechte Seite etwas freier zu machen. 
 Als nächstes versuchen wir, so viele Ideen für die rechte Seite zu finden wie möglich.
 Lebensmittel -> Supermarkt, Bioladen, Wochenmarkt, Food Saving, Selbst Anbauen, beim Bauern kaufen, Essen gehen, Take away, Wild sammeln...
-Bewegung -> Fitnesstudio, Arbeitsweg gehen/laufen/rad fahren, Hausarbeit, Gartenarbeit, auf dem Boden sitzen statt auf Stuhl, Einkäufe tragen, verschiedene Sportarten ausprobieren
-Geld -> Job, 
+Bewegung -> Fitnesstudio, Arbeitsweg gehen/laufen/rad fahren, Hausarbeit, Gartenarbeit, auf dem Boden sitzen statt auf Stuhl, Einkäufe tragen, verschiedene Sportarten ausprobieren...
+Geld -> aktueller Job, Nebenprojekte, entrümpeln&verkaufen, sparsamer leben, investieren...
 
-DIREKT LETZTEN EINTRAG VERVOLLSTÄNDIGEN
+Jetzt überlegen wir uns für jedes Element, welche anderen Funktionen dieses Element zusätzlich erfüllt.
+Hier gibt es jetzt schnell eine kombinatorische Explosion.
+Wenn die Zeit knapp ist kann man hier auch gut nach Gefühl nur die vielversprechenden Kandidaten weiternehmen - auf die Gefahr hin, Einsichten zu verpassen.
+Ich mache das hier mal tabellarisch für ein paar Kandidaten.
 
+| Element | Funktionen |
+| --- | --- |
+| Supermarkt | große Auswahl an verschiedenen Lebensmitteln, effizientes Einkaufen |
+| Wochenmarkt | Lebensmittel: Bio, unverpackt, oft regional; Kaffee & Gebäck mit Familie beim Biobäcker; Spielplatz für Kind; Soziale Atmosphäre |
+| Food Saving | Lebensmittel umsonst!, Beitrag zum Umweltschutz | 
+| Selbst Anbauen | Lebensmittel: man weiß genau über Erzeugung bescheid, Bewegung, Lernen (Gärtnern) |
+| Essen gehen | Lebensmittel (teuer), aber lecker; soziales Event, stärkt lokale Gastronomie |
+| Wild Sammeln | Lebensmittel (umsonst, gesund, möglicherweise belastet), Bewegung, Natur, frische Luft, Lernen |
+
+NEXT: dasselbe für Bewegung?
 
 
 
@@ -68,6 +81,8 @@ DIREKT LETZTEN EINTRAG VERVOLLSTÄNDIGEN
 Gedanke: Stock füllt sich zwar schneller durch spezialisierte Inputs, aber viele kleine inputs machen das Fass auch voll.
 Gedanke: Vereinfachung und Minimalismus kann auf der Ebene der Funktionen, aber auch auf der Ebene der Elemente wirken.
 Gedanke: Das ganze pusht mehr in Richtung des Generalisten (high-level).
+Gedanke: Abstraktionslevel der Elemente und Funktionen bestimmt viel. Das ist im Garten einfacher
+Gedanke: Es ist nicht nur wichtig, welche Funktionen, sondern auch auf welche Art / wie gut die Funktionen erfüllt werden. Mind map eignet sich eigentlich gut...
 
 
 Wie können wir das o.g. Prinzip nutzen, um unser Leben resilienter, aber weniger kompliziert zu gestalten?
