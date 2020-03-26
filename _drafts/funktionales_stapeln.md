@@ -69,13 +69,36 @@ Ich mache das hier mal tabellarisch für ein paar Kandidaten.
 | Supermarkt | große Auswahl an verschiedenen Lebensmitteln, effizientes Einkaufen |
 | Wochenmarkt | Lebensmittel: Bio, unverpackt, oft regional; Kaffee & Gebäck mit Familie beim Biobäcker; Spielplatz für Kind; Soziale Atmosphäre |
 | Food Saving | Lebensmittel umsonst!, Beitrag zum Umweltschutz | 
-| Selbst Anbauen | Lebensmittel: man weiß genau über Erzeugung bescheid, Bewegung, Lernen (Gärtnern) |
+| Selbst Anbauen | Lebensmittel: Kontrolle über Erzeugung, Bewegung, Lernen (Gärtnern) |
 | Essen gehen | Lebensmittel (teuer), aber lecker; soziales Event, stärkt lokale Gastronomie |
-| Wild Sammeln | Lebensmittel (umsonst, gesund, möglicherweise belastet), Bewegung, Natur, frische Luft, Lernen |
+| Wild Sammeln | Lebensmittel (umsonst, gesund, möglicherweise belastet), Bewegung, Natur, frische Luft, Sonne, Lernen |
 
-NEXT: dasselbe für Bewegung?
+| Element | Funktionen |
+| --- | --- |
+| Fitnessstudio | Bewegung; Bekannte Treffen; Sauna |
+| Arbeitsweg gehen/laufen | Bewegung; Transport; Draußen |
+| Hausarbeit | Bewegung; Saubere/ordentliche Wohnung |
+| Gartenarbeit | Bewegung; Draußen; Obst, Gemüse, Kräuter; Schöner Garten |
+| Boden statt Sitzmöbel | Bewegung (insbesondere Beweglichkeit); Sparsamkeit (weniger Möbel); mehr Platz; einfacher Putzen |
+| Einkäufe tragen | Bewegung; Umweltschutz; Sparsamkeit (Treibstoff) |
+| verschiedene Sportarten | Bewegung; Spaß; soziale Kontakte ... |
+
+Und jetzt wählt man jeweils diejenigen aus, die zusätzlich zur eigentlichen Funktion noch viele andere Dinge erfüllen, die einem persönlich wichtig erscheinen.
 
 
+
+
+
+Wenn man selbst so eine Kategorisierung versucht, bemerkt man schnell einige Eigenschaften:
+- das ganze ist sehr individuell, wenn ich das mache ist das Ergebnis völlig anders als bei dir
+- es hängt viel vom Maß der Abstraktion von Funktionen ab: Wenn ich über "Bewegung" nachdenke, dann fallen mir mehr mögliche Elemente ein als bei "Sport". Manche weithin verwendeten Kategorien sind vielleicht zu eng um flexibel zu denken
+- teilweise ist es vielleicht nötig eher in Vor- und Nachteilen als in Funktionen zu denken. In zukünftigen Versionen dieses Artikels werde ich darauf näher eingehen.
+
+
+-----------
+
+TODO
+- Kategorisierung von Funktionen genauer herausarbeiten
 
 
 Gedanke: Stock füllt sich zwar schneller durch spezialisierte Inputs, aber viele kleine inputs machen das Fass auch voll.
@@ -83,35 +106,5 @@ Gedanke: Vereinfachung und Minimalismus kann auf der Ebene der Funktionen, aber 
 Gedanke: Das ganze pusht mehr in Richtung des Generalisten (high-level).
 Gedanke: Abstraktionslevel der Elemente und Funktionen bestimmt viel. Das ist im Garten einfacher
 Gedanke: Es ist nicht nur wichtig, welche Funktionen, sondern auch auf welche Art / wie gut die Funktionen erfüllt werden. Mind map eignet sich eigentlich gut...
-
-
-Wie können wir das o.g. Prinzip nutzen, um unser Leben resilienter, aber weniger kompliziert zu gestalten?
-
-Schritt 1: Die Trennung von Funktion und Element.
-Statt direkt zu denken: Ich brauche ein Messer!
-Kann man erstmal anfangen zu überlegen, was man eigentlich für Bedürfnisse hat. 
-Will man etwas schneiden?
-Was will man schneiden? 
-Wann und wo?
-
-Schritt 2: Welche Elemente könnten diese Funktion erfüllen?
-Zugegeben, meist ist für das Schneiden ein Messer recht gut geeignet.
-Aber zumindest bekommt man durch beantwortung der Fragen oben ein besseres Bild von den genauen Bedürfnissen.
-Damit ausgerüstet kann man recherchieren, welche Arten von Messern es überhaupt gibt.
-
-Schritt 3: Die Auswahl
-Gewöhnlicherweise würde man jetzt "Das beste Werkzeug für den Job" wählen.
-Aber durch Prinzip 2 geleitet kann man jetzt gucken, welche Messer zusätzlich zur eigentlichen Funktion auch noch viele weitere Funktionen in petto haben.
-Auf diese Weise wählt man dann vielleicht nicht das Messer, dass die eigentliche Aufgabe am besten erledigt, aber sehr spezialisiert ist.
-Stattdessen wählt man einen gut ausgeglichenen Generalisten, der vielleicht eine besondere Stärke in dem gefragten Bereich hat.
-Für Prinzip 1 würde man jetzt vielleicht sogar so weit gehen, ein anderes Messer zu erwerben, dass den Hauptpunkt ebenso abdeckt, aber eben auch wieder weitere Funktionen hat.
-Auf diese Weise ist der eigentliche Bedarf doppelt abgedeckt, und zusätzlich schon ein großer Bereich an weiteren Themen, die vielleicht einmal wichtig werden.
-
-
-Dieses Beispiel ist vielleicht ein wenig langweilig und auch nicht so nachvollziehbar.
-Nehmen wir ein paar andere alltägliche Beispiele:
-Wenn ich immer im selben Supermarkt einkaufe und dieser schließt oder zu hat, muss ich eine komplett andere Lösung finden.
-Wenn ich stattdessen an verschiedenen Stellen einkaufe habe ich mehr vielfalt, muss nicht so viel auf einmal besorgen und habe auch seltener einen leeren Kühlschrank.
-
-Weitere beispiele...
-
+Gedanke: Wie bekommt man hin, dass Funktionen nicht nur Vor/Nachteile sind? Sind das Needs und Yields?
+- mache ich das zu detailiert?
