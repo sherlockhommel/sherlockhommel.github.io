@@ -9,6 +9,7 @@ In der Permakultur gibt es zwei ineinandergreifende Prinzipien für resiliente S
 
 Die erste Regel stellt sicher, dass wichtige Funktionen nicht ausfallen, sobald einzelne Elemente verloren gehen.
 Die zweite Regel stellt sicher, dass man mit wenigen Elementen viele Funktionen sicher abdecken kann.
+Ein System kann so mit einigen wenigen Elementen viele verschiedene Funktionen sicher abdecken.
 Manchmal werden diese beiden Prinzipien zusammengefasst "funktionales Stapeln" genannt.
 
 In unseren modernen Leben praktizieren wir allerdings eher das Gegenteil: 
@@ -23,19 +24,19 @@ Wir denken wir sichern unsere Bedürfnisse am besten, indem wir für jeden Zweck
 Aber das macht uns abhängig von den gewählten Lösungen.
 Fallen unsere bisherigen Lösungen weg, zum Beispiel in Zeiten vieler Änderungen (nach der Geburt eines Kindes, Umzug, Pandemie, etc) stehen wir möglicherweise vor dem nichts.
 
-Stattdessen können wir dasselbe Bedürfnis durch viele kleine Dinge abdecken (Prinzip 1 von oben).
+Stattdessen können wir Prinzip 1 folgen und dasselbe Bedürfnis durch mehrere kleine Aktivitäten abdecken.
 Hier ein paar Beispiele:
-Um uns finanziell abzusichern, können nicht nur zusätzlichem zu unserem Job kleine Nebenprojekte starten, sondern auch noch sparsamer leben, investieren lernen etc.
-Um uns fit zu halten können wir verschiedenste Bewegungsdisziplinen ausprobieren und zusätzlich unseren Alltag mit Bewegung spicken.
-Für unsere Ernährung können wir in verschiedenen Supermärkten, Wochenmärkten, Lebensmittelläden und direkt beim Bauern einkaufen und außerdem selbst und mit Freunden essen anbauen.
+Um uns finanziell abzusichern, können nicht nur zusätzlichem zu unserem Job kleine Nebenprojekte starten, sondern auch sparsamer leben, investieren lernen etc.
+Um uns fit zu halten können wir verschiedenste Bewegungsdisziplinen ausprobieren und zusätzlich unseren Alltag mit Bewegung durchziehen.
+Für unsere Ernährung können wir in verschiedenen Supermärkten, Wochenmärkten, Lebensmittelläden oder direkt beim Erzeuger einkaufen und außerdem selbst und mit Freunden essen anbauen.
 
 Um ein wenig einzugrenzen, welche Kandidaten besonders gut geeignet sind, können wir zusätzlich Prinzip 2 einbringen und schauen, welche Ansätze zusätzlich zum eigentlichen Zweck auch noch andere Bedürfnisse erfüllen.
 Wenn wir zu Fuß oder mit dem Fahrrad einkaufen gehen, dann haben wir nachher nicht nur unsere Einkäufe, sondern bekommen auch ein Workout und frische Luft.
-Auf dem Markt oder im Bioladen einzukaufen erhöht die Chance, gesunde, ökologische, regionale und unverpackte Lebensmittel zu bekommen.
-Wenn wir versuchen, uns im Alltag mehr zu bewegen, können wir "nebenbei" Hausarbeiten erledigen.
-Das Nebenprojekt für Zusatzeinkommen darf Spaß machen ;) und Interessen verfolgen, für die wir privat oder im Beruf keine Zeit haben.
+Auf dem Markt oder im Bioladen einzukaufen erhöht die Chance, gesunde, ökologische, regionale, saisonale und unverpackte Lebensmittel zu bekommen.
+Wenn wir versuchen, uns im Alltag mehr zu bewegen, können wir "nebenbei" Hausarbeiten erledigen und auf einmal Spaß dabei haben!
+Beim Nebenprojekt für Zusatzeinkommen können wir Interessen verfolgen, für die wir privat oder im Beruf keine Zeit haben.
 
-Wenn man diese Sichtweise weiterspinnt, entsteht schnell ein Netz aus Aktivitäten, die sich gegenseitig stützen:
+Wenn man diese Sichtweise weiterspinnt, kann man ein Netz aus Aktivitäten spinnen, die sich gegenseitig stützen.
 
 TODO: hier ein Bild mit einem schönen Netz.
 
@@ -44,19 +45,19 @@ Hier noch ein paar Verallgemeinerungen, um funktionales Stapeln einfacher auf be
 Wie auch schon oben bezeichnet das Wort Funktion implizit Zwecke, Bedürfnisse und Ziele und das Wort Element implizit Mittel, Aktivitäten und Werkzeuge.
 Um geignete Elemente auszuwählen, muss zuerst die Funktion vom Element getrennt werden.
 Oft haben wir standardlösungen für bestimmte Probleme im Kopf:
-Einkaufen -> Supermarkt
-Sport -> Fitnessstudio
-Einkommen -> Job
+Einkaufen <- Supermarkt
+Sport <- Fitnessstudio
+Einkommen <- Job
 
 Jetzt versuchen wir zunächst die linke seite etwas zu abstrahieren:
-Lebensmittel -> Supermarkt
-Bewegung -> Fitnessstudio
-Geld -> Job
+Lebensmittel <- Supermarkt
+Bewegung <- Fitnessstudio
+Geld <- Job
 
 Das hilft dabei, sich im Kopf auch für die rechte Seite etwas freier zu machen. 
 Als nächstes versuchen wir, so viele Ideen für die rechte Seite zu finden wie möglich.
 Lebensmittel -> Supermarkt, Bioladen, Wochenmarkt, Food Saving, Selbst Anbauen, beim Bauern kaufen, Essen gehen, Take away, Wild sammeln...
-Bewegung -> Fitnesstudio, Arbeitsweg gehen/laufen/rad fahren, Hausarbeit, Gartenarbeit, auf dem Boden sitzen statt auf Stuhl, Einkäufe tragen, verschiedene Sportarten ausprobieren...
+Bewegung -> Fitnesstudio, Arbeitsweg gehen/laufen/rad fahren, Hausarbeit, Gartenarbeit, auf dem Boden sitzen statt auf Stuhl, Einkäufe tragen, verschiedene Sportarten und Bewegungsdisziplinen ausprobieren...
 Geld -> aktueller Job, Nebenprojekte, entrümpeln&verkaufen, sparsamer leben, investieren...
 
 Jetzt überlegen wir uns für jedes Element, welche anderen Funktionen dieses Element zusätzlich erfüllt.
@@ -84,27 +85,17 @@ Ich mache das hier mal tabellarisch für ein paar Kandidaten.
 | verschiedene Sportarten | Bewegung; Spaß; soziale Kontakte ... |
 
 Und jetzt wählt man jeweils diejenigen aus, die zusätzlich zur eigentlichen Funktion noch viele andere Dinge erfüllen, die einem persönlich wichtig erscheinen.
+Vielleicht hast du schon bemerkt, dass man sich hier schnell in einer Art Kategorisierung verrennen kann. 
+Vieles hängt davon ab, wie man Dinge benennt oder ob man das richtige Maß an Abstraktion gewählt hat.
+Unsere komplizierten Leben sind nicht so einfach in Funktionen und Elemente aufzuteilen wie man sich wünschen würde.
+Dennoch sind diese (Design-)Prinzipien sehr nützlich dabei, vom "jedes Töpfchen hat sein Deckelchen" Denken wegzukommen.
 
+Eine letzte Randnotiz: Faszinierend finde ich, dass dieser Designansatz in allen Bereichen Anwendung finden kann: Für Klimaschutz genauso wie für Softwarearchitekturen, für Gartenbau genauso wie für die Aufstellung von einem Trainingsprogramm. 
 
-
-
-
-Wenn man selbst so eine Kategorisierung versucht, bemerkt man schnell einige Eigenschaften:
-- das ganze ist sehr individuell, wenn ich das mache ist das Ergebnis völlig anders als bei dir
-- es hängt viel vom Maß der Abstraktion von Funktionen ab: Wenn ich über "Bewegung" nachdenke, dann fallen mir mehr mögliche Elemente ein als bei "Sport". Manche weithin verwendeten Kategorien sind vielleicht zu eng um flexibel zu denken
-- teilweise ist es vielleicht nötig eher in Vor- und Nachteilen als in Funktionen zu denken. In zukünftigen Versionen dieses Artikels werde ich darauf näher eingehen.
-
+Viel Spaß beim Designen! :)
 
 -----------
 
 TODO
-- Kategorisierung von Funktionen genauer herausarbeiten
+- Kategorisierung von Funktionen genauer herausarbeiten: Wie passt hier Vor-/Nachteildenken hinein? Wer erfüllt Funktion "am besten"
 
-
-Gedanke: Stock füllt sich zwar schneller durch spezialisierte Inputs, aber viele kleine inputs machen das Fass auch voll.
-Gedanke: Vereinfachung und Minimalismus kann auf der Ebene der Funktionen, aber auch auf der Ebene der Elemente wirken.
-Gedanke: Das ganze pusht mehr in Richtung des Generalisten (high-level).
-Gedanke: Abstraktionslevel der Elemente und Funktionen bestimmt viel. Das ist im Garten einfacher
-Gedanke: Es ist nicht nur wichtig, welche Funktionen, sondern auch auf welche Art / wie gut die Funktionen erfüllt werden. Mind map eignet sich eigentlich gut...
-Gedanke: Wie bekommt man hin, dass Funktionen nicht nur Vor/Nachteile sind? Sind das Needs und Yields?
-- mache ich das zu detailiert?
