@@ -1,7 +1,5 @@
 # Funktionales Stapeln
 
-* TODO: Drei Diagramme malen: eins mit ein element pro funktion, eins mit mehreren unifunktionale elemente pro funktion, eins mit richtigem funktionalem Stapeln
-
 In der Permakultur gibt es zwei ineinandergreifende Prinzipien für resiliente Systeme:
 
 1. Jede Funktion wird durch mehrere Elemente gestützt
@@ -96,6 +94,12 @@ Viel Spaß beim stapeln! :)
 
 -----------
 
-TODO
+### Quellen
+[Permakultur Prinzipen (englische Seite)](https://permacultureprinciples.com) 
+
+-----------
+
+TODO für nächste Versionen dieses Artikels
 - Kategorisierung von Funktionen genauer herausarbeiten: Wie passt hier Vor-/Nachteildenken hinein? Wer erfüllt Funktion "am besten"
 - Diagramme/Bilder erstellen
+- links zu nützlichen resourcen
