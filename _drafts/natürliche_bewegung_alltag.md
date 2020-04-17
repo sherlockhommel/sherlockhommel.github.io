@@ -1,9 +1,36 @@
 # Natürliche Bewegung im Alltag
 
 Was wäre, wenn man sich auch ohne Workouts fit halten könnte oder sogar nocht fitter werden?
-Die Idee der natürlichen Bewegung fußt auf dem Gedanken, dass jede Spezies im Laufe der Evolution spezifische Bewegungsmuster erlangt hat.
+Für viele Leute ist Fitness, Sport oder Bewegung an bestimmte Geräte, Orte oder Personen gebunden.
+Sport macht man im Verein, Fitness im Studio an den richtigen Geräten.
+Leider sind diese Dinge meist entweder zu bestimmten festen Zeiten und finden selten direkt zuhause statt.
+
+Trotz super Unterstützung durch meine Frau ist es mir seit der Geburt meines Sohnes bisher schwer gefallen, regelmäßige Trainingszeiten einzuhalten.
+Das liegt hauptsächlich daran, dass kleine Kinder ihre Rhythmen immer wieder ändern und dadurch der Tagesablauf der Eltern stetig angepasst werden muss.
+Inspiriert von Tony Riddle LINK (der vier Kinder hat und unglaubliche Dinge nebenher macht) probiere ich momentan eine Art Bewegungs-Opportunismus mit natürlicher Bewegung aus.
+In diesem Artikel beschreibe ich zunächst ein paar Grundideen der natürlichen Bewegung und gehe danach auf die Idee des Bewegungs-Opportunismus ein.
+
+## Was ist Natürliche Bewegung?
+
+Ich will hier nicht die Worte "natürlich" und "Bewegung" durchdefinieren. Fußnote: Das Buch von Erwan enthält eine gute "Definition".
+Stattdessen konzentriere ich mich auf die Ideen hinter dem MovNat System von Erwan Le Corre.
+Der Grundgedanke ist, dass jede Spezies im Laufe der Evolution spezifische Bewegungsmuster erlangt hat.
 Um sich "fit" zu halten muss ein Vogel fliegen und ein Fisch muss schwimmen.
 Dasselbe gilt für uns Menschen, nur dass wir in unseren Bewegungsmustern deutlich vielseitiger sind.
+Für unser Überleben haben wir gelernt zu liegen, krabbeln, sitzen, hocken, gehen, laufen, balancieren, springen, klettern, heben, tragen, werfen, fangen, kämpfen und schwimmen.
+Und das sind natürlich nur die Oberkategorien!
+Genau wie Tiere können wir extrem fit dadurch werden, dass wir genau diese Dinge regelmäßig üben oder nutzen.
+
+Warum sollte ich etwas natürliches üben?
+Da die oben genannten Fähigkeiten natürlich sind, verfügen wir von Natur aus über rudimentäre Fähigkeiten in jedem dieser Bereiche.
+Allerdings ist für die meisten noch viel Luft nach oben und durch Übung können wir effektiver und effizienter werden.
+Dabei geht es sowohl um die Verfeinerung der Technik als auch die Konditionierung des eigenen Körpers.
+
+Ausführliche Erklärungen findest du auf movnat.com oder in Erwans ausgezeichnetem Buch ...
+
+## Bewegungsopportunismus
+
+Das schöne an den 
 
 HIER WEITER
 
