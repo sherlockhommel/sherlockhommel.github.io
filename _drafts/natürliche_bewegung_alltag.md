@@ -7,14 +7,14 @@ Leider sind diese Dinge meist entweder zu bestimmten festen Zeiten und finden se
 
 Trotz super Unterstützung durch meine Frau ist es mir seit der Geburt meines Sohnes bisher schwer gefallen, regelmäßige Trainingszeiten einzuhalten.
 Das liegt hauptsächlich daran, dass kleine Kinder ihre Rhythmen immer wieder ändern und dadurch der Tagesablauf der Eltern stetig angepasst werden muss.
-Inspiriert von Tony Riddle LINK (der vier Kinder hat und unglaubliche Dinge nebenher macht) probiere ich momentan eine Art Bewegungs-Opportunismus mit natürlicher Bewegung aus.
+Inspiriert von Tony Riddle LINK (der selbst _vier_ Kinder hat) probiere ich momentan eine Art Bewegungs-Opportunismus mit natürlicher Bewegung aus.
 In diesem Artikel beschreibe ich zunächst ein paar Grundideen der natürlichen Bewegung und gehe danach auf die Idee des Bewegungs-Opportunismus ein.
 
 ## Was ist Natürliche Bewegung?
 
 Ich will hier nicht die Worte "natürlich" und "Bewegung" durchdefinieren. Fußnote: Das Buch von Erwan enthält eine gute "Definition".
 Stattdessen konzentriere ich mich auf die Ideen hinter dem MovNat System von Erwan Le Corre.
-Der Grundgedanke ist, dass jede Spezies im Laufe der Evolution spezifische Bewegungsmuster erlangt hat.
+Der Grundgedanke ist, dass jede Spezies im Laufe der Evolution spezifische Bewegungsmuster ausgebildet hat, um zu überleben..
 Um sich "fit" zu halten muss ein Vogel fliegen und ein Fisch muss schwimmen.
 Dasselbe gilt für uns Menschen, nur dass wir in unseren Bewegungsmustern deutlich vielseitiger sind.
 Für unser Überleben haben wir gelernt zu liegen, krabbeln, sitzen, hocken, gehen, laufen, balancieren, springen, klettern, heben, tragen, werfen, fangen, kämpfen und schwimmen.
@@ -30,15 +30,39 @@ Ausführliche Erklärungen findest du auf movnat.com oder in Erwans ausgezeichne
 
 ## Bewegungsopportunismus
 
-Das schöne an den 
+Das schöne an natürlicher Bewegung ist, dass sie praktisch angelegt ist.
+Immerhin haben wir diese Bewegungsmuster entwickelt, um mit diversen Situationen umgehen zu können.
+Das gilt allerdings nicht nur für den Überlebenskampf in der prähistorischen Welt, sondern auch für unseren modernen Alltag.
+Vor allem mit Kind! 
+
+Jeder, der ein kleines Kind hat, begegnet folgenden Situationen täglich:
+- auf dem Boden sitzen und spielen
+- mit dem Kind herumkrabbeln / toben / laufen
+- das Kind vom Boden hochheben und tragen
+- Spaziergang mit dem Kind
+All diese Situationen sind für uns Erwachsene ein Segen, denn sie zwingen uns zu regelmäßiger Bewegung.
+
+Wenn man jetzt ein paar typische Haushaltssituationen dazu nimmt:
+- Einkäufe tragen, am besten zu Fuß bis nach Hause
+- Putzen
+- Reparaturarbeiten
+- Gartenarbeiten
+- Wäsche auf dem Trockenboden aufhängen
+dann haben wir noch keinen einzigen Fuß in ein Fitness- oder Yogastudio gesetzt, sind aber schon ziemlich viel in Bewegung gewesen.
+
+Jetzt nehmen wir noch ein paar Dinge hinzu, die die Fitnesskiller Arbeit & Schreibtisch zu unseren Gunsten auslegen:
+- beim Arbeiten auf dem Boden sitzen in verschiedenen Sitz- und Hockpositionen
+- kleine Bewegungssnacks bei der Arbeit einfließen lassen, vor allem Hängen, aber auch Krabbeln, balancieren etc
+- Arbeitsweg gehen/laufen/Fahrrad fahren
+
+Und schon ist unser Alltag voller Bewegung. 
+Ich lehne mich mal aus dem Fenster und behaupte, dass man damit aus einer praktischen Sicht schon fitter ist als die meisten Menschen.
+Wenn wir jetzt noch die Zeit finden, um ab und zu intensivere Einheiten einzubauen (etwa Gewichte Heben und Tragen, Klettern, Springen, weitere Strecken laufen, Schwimmen gehen, Kampfsport), dann haben wir hier einen explosiven Mix!
+Der Schlüssel ist, wenig intensive Dinge wie Beweglichkeitsarbeit in den Alltag zu integrieren, damit die Workouts auf eine gute Basis aufbauen, statt erstmal eine schaffen zu müssen.
+
+
 
 HIER WEITER
-
-In meinem bisherigen Dasein als Vater war es bisher schwierig, regelmäßige Trainingszeiten einzuhalten. 
-Das liegt nicht daran, dass es gar nicht gegangen wäre.
-Meine Frau hat mich jedes Mal unterstützt, wenn ich danach gefragt habe.
-Allerdings hat sich einfach so oft der Tagesablauf leicht verändert, dass ein genauer Plan schwierig gewesen ist.
-
 - strong to be useful
 - practical fitness ist der Gipfel der Fitness
 - aerobe Fitness ist das, was uns im Alltag am meisten bringt und Kinder bieten unendlich viele Möglichkeiten dafür
